@@ -25,7 +25,7 @@ Install JupyterLab - [https://jupyter.org/](https://jupyter.org/)
 
 While downloading Python and JupyterLab should not be too difficult, using Anaconda can make installation and use simpler. Anacoda is an all-in-one installer, provides a user-friendly interface, and allows easy access to Python packages. 
 
-Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
+Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)  
 Addition Help with Anaconda - [HERE](http://swcarpentry.github.io/python-novice-gapminder/setup.html#installing-python-using-anaconda)
 
 
