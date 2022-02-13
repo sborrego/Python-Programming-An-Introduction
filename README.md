@@ -13,4 +13,16 @@ We will program in Python using JupyterLab, a programming environment that runs 
 
 #### Python
 
-There are two current versions of Python -- we will be using version 3.5 or later. [Download Python 3.x](https://www.python.org/downloads/).
+There are two current versions of Python -- we will be using version 3.5 or later. 
+Download Python 3.x - [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+#### JupyterLab
+
+Install JupyterLab - [https://jupyter.org/](https://jupyter.org/)
+
+#### Alternative Installation - Anaconda
+
+While downloading Python and JupyterLab should not be too difficult, using Anaconda can make installation and use simpler. Anacoda is an all-in-one installer, provides a user-friendly interface, and allows easy access to Python packages. 
+
+Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
+
