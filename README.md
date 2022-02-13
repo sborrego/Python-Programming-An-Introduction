@@ -11,4 +11,6 @@ This workshop will introduce the basics of Python, providing a foundation for be
 
 We will program in Python using JupyterLab, a programming environment that runs in a web browser. For this to work you will need a reasonably up-to-date web browser - Chrome, Safari and Firefox are all supported.
 
+#### Python
 
+There are two current versions of Python -- we will be using version 3.5 or later. [Download Python 3.x](https://www.python.org/downloads/).
