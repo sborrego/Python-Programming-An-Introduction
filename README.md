@@ -14,6 +14,7 @@ We will program in Python using JupyterLab, a programming environment that runs 
 #### Python
 
 There are two current versions of Python -- we will be using version 3.5 or later. 
+
 Download Python 3.x - [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 #### JupyterLab
