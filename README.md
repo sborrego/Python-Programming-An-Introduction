@@ -34,5 +34,6 @@ Addition Help with Anaconda - [HERE](http://swcarpentry.github.io/python-novice-
 
 * Super quick review of the basics (free): [W3Schools Python Exercises](https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1)
 * [DataCamp](https://www.datacamp.com/) is great for beginners - you have to sign up for a free account to access the material. Both free and paid courses are available
+* A helpful document with the basics covered by this workshop: [DataCamp Python Basics Cheat Sheet](https://www.zillow.com/homedetails/22009-N-61st-Ave-Glendale-AZ-85310/121849988_zpid/) 
 
 
