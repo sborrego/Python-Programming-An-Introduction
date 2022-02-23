@@ -34,6 +34,23 @@ Install JupyterLab by following the first set of instructions - [https://jupyter
 
 *** 
 
+##  Additional Software Requirements (for those NOT using Anaconda)
+
+We will be using the Python number array package, Numpy. It must be installed on your computer using the command line using the command `pip`. 
+
+### Check that `pip` is installed correctly
+
+* Getting started with pip [instructions](https://pip.pypa.io/en/stable/getting-started/)
+    - Note: You may need to use `python3` instead of `python` like the instructions indicate
+    - Note: You may also need to use `pip3` instead of `pip`
+* If `pip` is not installed or working, try following these instructions [HERE](https://pip.pypa.io/en/stable/installation/)
+
+### Install Numpy
+
+* On command line, type: `pip install numpy`  
+* [NumPy: the absolute basics for beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
+
+
 ## Additional Learning Resources
 
 * Super quick review of the basics (free): [W3Schools Python Exercises](https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1)
