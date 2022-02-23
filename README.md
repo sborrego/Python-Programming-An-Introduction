@@ -30,7 +30,7 @@ Download Python 3.x - [https://www.python.org/downloads/](https://www.python.org
 
 #### JupyterLab
 
-Install JupyterLab by following the first set of instructions - [https://jupyter.org/](https://jupyter.org/install)
+Install JupyterLab by following the first set of instructions - [https://jupyter.org/jnstall](https://jupyter.org/install)
 
 *** 
 
