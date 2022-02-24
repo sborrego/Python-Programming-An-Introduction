@@ -20,7 +20,9 @@ Downloading Python and JupyterLab independently may often times run into issues 
 Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)  
 Addition Help with Anaconda - [HERE](http://swcarpentry.github.io/python-novice-gapminder/setup.html#installing-python-using-anaconda)
 
-If you are familiar with your command line and prefer to install Python and JupyterLab individually, you can find the links and installation instructions on the software websites below.
+## Advanced User Software Installation
+
+For **advanced users** that are familiar with the command line and prefer to install Python and JupyterLab individually, you can find the links and installation instructions on the software websites below.
 
 ### Python
 
@@ -34,7 +36,7 @@ Install JupyterLab by following the first set of instructions - [https://jupyter
 
 *** 
 
-##  Additional Software Requirements (for those NOT using Anaconda)
+##  Additional Software Requirements (**for those NOT using Anaconda**)
 
 We will be using the Python number array package, Numpy. It must be installed on your computer using the command line using the command `pip`. 
 
@@ -47,9 +49,11 @@ We will be using the Python number array package, Numpy. It must be installed on
 
 ### Install Numpy
 
-* On command line, type: `pip install numpy`  
+* On command line, type: 
+    - `pip install numpy`  
 * [NumPy: the absolute basics for beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
 
+***
 
 ## Additional Learning Resources
 
