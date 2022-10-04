@@ -1,4 +1,4 @@
-# Introduction to Python
+# Python Programming: An Introduction
 University of South Florida workshop  
 Tuesday, October 4th, 2022  
 9:00 - 10:30 am EST
