@@ -1,6 +1,6 @@
 # Python Programming: An Introduction
 University of South Florida workshop  
-Tuesday, October 4th, 2022  
+Monday, March 20th, 2023  
 9:00 - 10:30 am EST
 
 This workshop will introduce the basics of Python, providing a foundation for beginners that are interested in working with data.
