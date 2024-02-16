@@ -20,7 +20,7 @@ To start the software, you will need to use your terminal to open a notebook. In
 Downloading Python and JupyterLab independently may often times run into issues that are tricky and time consuming to resolve. A simpler method of installing is to use the all-in-one installer Anaconda. It provides a user-friendly interface, allows easy access to Python packages, and is simple to install.
 
 Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)  
-Addition Help with Anaconda - [HERE](http://swcarpentry.github.io/python-novice-gapminder/setup.html#installing-python-using-anaconda)
+Addition Help with Anaconda - [HERE](https://carpentries.github.io/workshop-template/install_instructions/#python-1)
 
 ***
 
