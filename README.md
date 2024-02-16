@@ -11,7 +11,7 @@ This workshop will introduce the basics of Python, providing a foundation for be
 
 We will program in Python using JupyterLab, a programming environment that runs in a web browser. For this to work you will need a reasonably up-to-date web browser -- Chrome, Safari and Firefox are all supported.
 
-You will also need to find the command line (aka terminal, shell) on your system. If you are not familiar with the command line on your system, you can find help [HERE](https://swcarpentry.github.io/shell-novice/setup.html#where-to-type-commands-how-to-open-a-new-shell).
+You will also need to find the command line (aka terminal, shell) on your system. If you are not familiar with the command line on your system, you can find help [HERE](https://swcarpentry.github.io/shell-novice/index.html#open-a-new-shell).
 
 To start the software, you will need to use your terminal to open a notebook. In your terminal type `jupyter notebook` - your terminal will fill with code and a new browser window will open with the Jupyter software. Click on `New` and `Python3`, and you are all ready to code in a new notebook! For more information about getting started, [HERE](https://datacarpentry.org/python-socialsci/01-introduction/index.html) is a helpful document.
 
