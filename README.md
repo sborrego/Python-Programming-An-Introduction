@@ -1,6 +1,6 @@
 # Python Programming: An Introduction
 University of South Florida workshop  
-Monday, March 20th, 2023  
+Tuesday, February 20th, 2024  
 9:00 - 10:30 am EST
 
 This workshop will introduce the basics of Python, providing a foundation for beginners that are interested in working with data.
@@ -30,7 +30,7 @@ For **advanced users** that are familiar with the command line and prefer to ins
 
 ### Python
 
-There are two current versions of Python -- we will be using version 3.5 or later. 
+There are two current versions of Python -- we will be using version 3.6 or later. 
 
 Download Python 3.x - [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
